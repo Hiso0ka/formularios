@@ -1,0 +1,69 @@
+#enviar {
+    width: 16.2em;
+    height: 2em;
+    background-color: #F95A06;
+    font-weight: bold;
+    color: white;
+    border: 0;
+
+}
+
+fieldset {
+    border: 0;
+}
+
+#titulo {
+    font-size: 1.5em;
+}
+
+#nombre_form2 {
+    height: 50px;
+}
+
+#ape1_form2 {
+    height: 50px;
+}
+#ape2_form2 {
+    height: 50px;
+    
+}
+
+#documento_form2 {
+    
+    height: 50px;
+}
+#select_form2 {
+    height: 55px;
+    width: 225px;
+}
+
+#subtitle {
+    
+}
+
+#titulo_form3 {
+    font-size: 1.5em;
+    
+    font-weight: bold;
+
+}
+
+#email_form3 {
+    height: 35px;
+}
+#telf_form3 {
+    height: 35px;
+}
+#pass_form3 {
+    height: 35px;
+}
+
+#enviar_form3 {
+    width: 16.2em;
+    height: 2em;
+    background-color: green;
+    font-weight: bold;
+    color: white;
+    border: 0;
+
+}
